@@ -8,7 +8,7 @@ Repository containing projects for Nand2Tetris course
 
 Description of folder and it's content
 
-1. Basic boolean blocks
+1. [Basic boolean blocks](/01/)
     - [AND](/01/And.hdl)
     - [DMux](/01/DMux.hdl)
     - [DMux4Way](/01/DMux4Way.hdl)
@@ -23,3 +23,10 @@ Description of folder and it's content
     - [Or8Way](/01/Or8Way.hdl)
     - [Or16](/01/Or16.hdl)
     - [Xor](/01/Xor.hdl)
+2. Adders and ALU
+    - [Add16](/02/Add16.hdl)
+    - [ALU](/02/ALU.hdl)
+    - [FullAdder](/02/FullAdder.hdl)
+    - [HalfAdder](/02/HalfAdder.hdl)
+    - [Inc16](/02/Inc16.hdl)
+3. 
